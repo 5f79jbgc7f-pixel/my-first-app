@@ -1,15 +1,18 @@
-# my-first-app
+# 🌐 My First Streamlit App
 
 ## Description
+This is my first web app project created with Streamlit.
 
-This is my first app on streamlit.
+## Features
+- Built with Streamlit
+- Simple web app structure
 
-- Bullet item
-- Another item
-  - Nested item
+## How to Run
+```bash
+streamlit run app.py
+---
 
-1. Numbered item
-2. Another item
+## 6
 
-```python
-print("This is my first app on streamlit")
+```text id="jlwmvk"
+Commit changes
